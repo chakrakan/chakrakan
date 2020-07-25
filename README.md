@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=chakrakan.chakrakan)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=chakrakan.chakrakan) ![Twitter Follow](https://img.shields.io/twitter/follow/chakra_kan?style=social)
