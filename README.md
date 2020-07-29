@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
  ![Twitter Follow](https://img.shields.io/twitter/follow/chakra_kan?style=social) ![visitors](https://visitor-badge.glitch.me/badge?page_id=chakrakan.chakrakan)
+ 
+ [![GitHub Status](https://github-readme-stats.vercel.app/api?username=chakrakan&show_icons=true&theme=tokyonight)]
