@@ -5,8 +5,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-kaniskc-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaniskc/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/chakra_kan?style=flat-square&logo=twitter)](https://twitter.com/chakra_kan) ![visitors](https://visitor-badge.glitch.me/badge?page_id=chakrakan.chakrakan)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/chakra_kan?style=flat-square&logo=twitter)](https://twitter.com/chakra_kan)
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=chakrakan&show_icons=true&theme=tokyonight)
 
 
