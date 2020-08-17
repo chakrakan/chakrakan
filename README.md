@@ -45,11 +45,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="chakrakan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chakrakan&show_icons=true" />
-</details>
-
 [website]: https://kan.codes
 [twitter]: https://twitter.com/chakra_kan
 [youtube]: https://www.youtube.com/channel/UC1jjg1XRAuUZj7-Q48v7tFw/
