@@ -45,7 +45,10 @@
 <br />
 <br />
 
-<img align="left" alt="chakrakan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chakrakan&show_icons=true&theme=tokyonight&hide_border=true" />
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="chakrakan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chakrakan&show_icons=true&theme=tokyonight&hide_border=true" />
+</details>
 
 [website]: https://kan.codes
 [twitter]: https://twitter.com/chakra_kan
