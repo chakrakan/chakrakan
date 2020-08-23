@@ -20,6 +20,7 @@
 [<img align="left" alt="kanisk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="devkanisk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="devkanisk | DEVpost" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kanisk's DEV Profile" width="22px">][devpost]
+[<img align="left" alt="devkanisk | codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" alt="Kanisk's codewars profile" width="22px">][codewars]
 
 <br />
 
@@ -51,3 +52,4 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/kaniskc
 [devpost]: https://dev.to/chakrakan
+[codewars]: https://www.codewars.com/users/chakrakan
