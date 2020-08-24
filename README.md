@@ -9,8 +9,8 @@
 - 💬 Ask me about all things tech!
 - 📫 How to reach me: dev.kanisk@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There are more trees on Earth than stars in the Milky Way 🌌
-- 🎵 Bonus Fun fact: I play the guitar, bass, piano, and dabble in music production and do some mediocre [digital art/drawings](https://www.deviantart.com/kaniskc) every now and then!
+- 🎵 Fun fact: I play the guitar, bass, piano, and dabble in music production and do some mediocre [digital art/drawings](https://www.deviantart.com/kaniskc) every now and then!
+- ⚡ Bonus Random Fun fact: There are more trees on Earth than stars in the Milky Way 🌌
 
 ### Connect with me:
 
