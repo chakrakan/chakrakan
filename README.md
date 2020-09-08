@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building a [YouTube channel](https://www.youtube.com/channel/UC1jjg1XRAuUZj7-Q48v7tFw) based on tech and computer science topics.
 - 🌱 I’m currently re-visiting/brushing up on known topics on Coursera while diving into new things with Deno, Elixir, C++, Rust, GoLang and Nim. 
 - 👯 I’m looking to collaborate on fun projects!
-- 🤔 I’m looking for help with interview prep for full-time SWE jobs
+- 🤔 I’m looking for help with interview prep for SWE jobs
 - 💬 Ask me about all things tech!
 - 📫 How to reach me: dev.kanisk@gmail.com
 - 😄 Pronouns: He/Him
