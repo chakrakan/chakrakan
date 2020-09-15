@@ -6,7 +6,7 @@
 - 🌱 I’m currently re-visiting/brushing up on known topics on Coursera while diving into new things with Deno, Elixir, C++, Rust, GoLang and Nim. 
 - 👯 I’m looking to collaborate on fun projects!
 - 🤔 I’m looking for help with interview prep for SWE jobs
-- 💬 Ask me about all things tech!
+- 💬 Feel free to reach out to me, or ask me about all things tech! You can find me on Discord as `kan#0979`, where I manage, and founded Centennial College's [Software Engineering Enrichment Club](https://discord.gg/eBnK5pB)
 - 📫 How to reach me: dev.kanisk@gmail.com
 - 😄 Pronouns: He/Him
 - 🎵 Fun fact: I play the guitar, bass, piano, and dabble in music production and do some mediocre [digital art/drawings](https://www.deviantart.com/kaniskc) every now and then!
@@ -21,6 +21,7 @@
 [<img align="left" alt="devkanisk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="devkanisk | DEVpost" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kanisk's DEV Profile" width="22px">][devpost]
 [<img align="left" alt="devkanisk | codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" alt="Kanisk's codewars profile" width="22px">][codewars]
+[<img align="left" alt="devkanisk | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -53,3 +54,4 @@
 [linkedin]: https://linkedin.com/in/kaniskc
 [devpost]: https://dev.to/chakrakan
 [codewars]: https://www.codewars.com/users/chakrakan
+[discord]: https://discord.gg/eBnK5pB
