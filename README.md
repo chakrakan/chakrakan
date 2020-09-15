@@ -23,10 +23,6 @@
 [<img align="left" alt="devkanisk | codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" alt="Kanisk's codewars profile" width="22px">][codewars]
 [<img align="left" alt="devkanisk | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-<a href="https://support.switchblade.xyz">
-<iframe src="https://discordapp.com/widget?id=581669860103290950&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</a>
-
 <br />
 
 ### Languages and Tools:
