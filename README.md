@@ -5,7 +5,7 @@
 - 🌱 I’m currently re-visiting/brushing up on known topics on Coursera while diving into new things with Deno, Elixir, C++, Rust, GoLang and Nim. 
 - 👯 I’m looking to collaborate on fun projects!
 - 🤔 I’m looking for help with interview prep for SWE jobs
-- 💬 Feel free to reach out to me, or ask me about all things tech! You can find me on Discord as `kan#0979`, where I manage, and founded Centennial College's [Centennial Social Club](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic
+- 💬 Feel free to reach out to me, or ask me about all things tech! You can find me on Discord as `kan#0979`, where I manage, and founded Centennial College's [ Social Club](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic
 - 📫 How to reach me: dev.kanisk@gmail.com
 - 😄 Pronouns: He/Him
 - 🎵 Fun fact: I play the guitar, bass, piano, and dabble in music production and do some mediocre [digital art/drawings](https://www.deviantart.com/kaniskc) every now and then!
