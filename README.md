@@ -2,7 +2,7 @@
 
 ### I am Kanisk, aka [chakrakan](https://github.com/chakrakan/)
 
-- 🌱 I’m currently re-visiting/brushing up on known topics on Coursera while diving into new things with Deno, Elixir, C++, Rust, GoLang and Nim. 
+- 🌱 I’m a Full-Stack developer, currently diving into new things with Deno, Elixir, C++, and GoLang. 
 - 👯 I’m looking to collaborate on fun projects!
 - 🤔 I’m looking for help with interview prep for SWE jobs
 - 💬 Feel free to reach out to me, or ask me about all things tech! You can find me on Discord as `kan#0979`, where I manage, and founded Centennial College's [ Social Club](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic
