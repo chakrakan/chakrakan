@@ -13,7 +13,7 @@ I'm currently seeking **Full-Time Software Engineering** roles for **Winter 2021
 - ⚡ **Centennial College**: Student Researcher - Oct 2018 ~ Dec 2018
 
 Apart from career and academic focused side of things, I also:
-- 🎸 **play a couple of instruments** and try to wrap my head around 🎧 music production,
+- 🎸 **play a couple of instruments** and try to wrap my head around 🎧 **music production**,
 - 🎨 enjoy **sketching/drawing** things I find cool or interesting,
 - 🧠 and also like to dabble in the **study of psychology**, attempting to understand the complex nature of the human mind. 
 
