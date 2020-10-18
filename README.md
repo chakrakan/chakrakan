@@ -1,20 +1,25 @@
 ### Hi there 👋
 
-### I am Kanisk, aka [chakrakan](https://github.com/chakrakan/)
+### Nice to e-meet you, I am Kanisk, aka [chakrakan](https://github.com/chakrakan/)...
 
-- 🌱 I’m a Full-Stack developer, currently diving into new things with Deno, Elixir, C++, and GoLang. 
-- 💬 Feel free to reach out to me, or ask me about all things tech! You can find me on Discord as `kan#0979`, where I manage, and founded Centennial College's [ Social Club](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic
-- 📫  How to reach me: dev.kanisk@gmail.com
-- 🎵 Fun fact: I play the guitar, bass, piano, and dabble in music production and do some mediocre [digital art/drawings](https://www.deviantart.com/kaniskc) every now and then!
-- ⚡ Bonus Random Fun fact: There are more trees on Earth than stars in the Milky Way 🌌
+I’m a recent grad from [Centennial College](https://www.centennialcollege.ca/), having completed an Ontario College Diploma in the field of Software Engineering. 
 
-### Connect with me:
+As an inquisitive learner who strives to understand the reasoning behind the little things instead of glossing over them, I'm driven to innovate, and, in general, passionate about programming paradigms, software infrastructure, and the ever-growing field of ML/AI & data science.
 
-[<img align="left" alt="kan.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="devkanisk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+I'm currently looking for **Full-Time Software Engineering** roles starting **Winter 2021**.
+
+Apart from career and academic focused side of things, I also play a couple of instruments and try to wrap my head around music production, enjoy sketching/drawing things I find cool or interesting, and also like to dabble in the study of psychology, attempting to understand the complex nature of the human mind. I am passionate about mental health and try to do my part whenever I can in order to reduce the stigma.
+
+Feel free to reach out for a chat, discussion or anything else in between via [e-mail](mailto:dev.kan@gmail.com) or [Linked-In](https://www.linkedin.com/in/kaniskc/). 
+
+You can also find me on Discord as `kan#0979`, where I manage, and founded Centennial College's [Social Club](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic.
+
+
+### Links you should check out:
+
 [<img align="left" alt="devkanisk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kanisk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="devkanisk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="devkanisk | Instagram | MindSwastha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="devkanisk | DEVpost" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kanisk's DEV Profile" width="22px">][devpost]
 [<img align="left" alt="devkanisk | codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" alt="Kanisk's codewars profile" width="22px">][codewars]
 [<img align="left" alt="devkanisk | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
@@ -46,7 +51,7 @@
 [website]: https://kan.codes
 [twitter]: https://twitter.com/chakra_kan
 [youtube]: https://www.youtube.com/channel/UC1jjg1XRAuUZj7-Q48v7tFw/
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/mindswastha/
 [linkedin]: https://linkedin.com/in/kaniskc
 [devpost]: https://dev.to/chakrakan
 [codewars]: https://www.codewars.com/users/chakrakan
