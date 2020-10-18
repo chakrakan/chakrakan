@@ -23,7 +23,7 @@ I am passionate about **mental health** and try to [do my part](https://www.inst
 
 You can also find me on Discord as `kan#0979`, where I **founded**, and manage [Centennial Social](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic!
 
-### Skills/Frameworks:
+### Languages/Frameworks:
 
 <a href="#"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
 <a href="#"><img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
