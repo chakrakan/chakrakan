@@ -1,32 +1,31 @@
-### Hi there 👋
 
-### Nice to e-meet you, I am Kanisk, aka [chakrakan](https://github.com/chakrakan/)...
+### Hi there 👋  
 
-I’m a recent grad from [Centennial College](https://www.centennialcollege.ca/), having completed an Ontario College Diploma in the field of Software Engineering. 
+Nice to e-meet you, I am Kanisk, a recent Software Engineering grad from [Centennial College](https://www.centennialcollege.ca/).
 
-As an inquisitive learner who strives to understand the reasoning behind the little things instead of glossing over them, I'm driven to innovate, and, in general, passionate about programming paradigms, software infrastructure, and the ever-growing field of ML/AI & data science.
+An inquisitive learner who strives to understand the reasoning behind the little things instead of glossing over them, I'm driven to innovate, and, in general, passionate about programming paradigms, software infrastructure, and the ever-growing field of ML/AI & data science.
 
-I'm currently looking for **Full-Time Software Engineering** roles starting **Winter 2021**.
+I'm currently seeking **Full-Time Software Engineering** roles for **Winter 2021**.
 
-Apart from career and academic focused side of things, I also play a couple of instruments and try to wrap my head around music production, enjoy sketching/drawing things I find cool or interesting, and also like to dabble in the study of psychology, attempting to understand the complex nature of the human mind. I am passionate about mental health and try to do my part whenever I can in order to reduce the stigma.
+### 🔭 Experience
 
-Feel free to reach out for a chat, discussion or anything else in between via [e-mail](mailto:dev.kan@gmail.com) or [Linked-In](https://www.linkedin.com/in/kaniskc/). 
+- ⚡ Royal Bank of Canada: Software Developer Internship - Jan 2019 ~ Dec 2019
+- ⚡ Centennial College: Student Researcher - Oct 2018 ~ Dec 2018
 
-You can also find me on Discord as `kan#0979`, where I manage, and founded Centennial College's [Social Club](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic.
+Apart from career and academic focused side of things, I also:
+- 🎸 play a couple of instruments and try to wrap my head around 🎧 music production,
+- 🎨 enjoy sketching/drawing things I find cool or interesting,
+- 🧠 and also like to dabble in the study of psychology, attempting to understand the complex nature of the human mind. 
 
+I am passionate about mental health and try to [do my part](https://www.instagram.com/mindswastha/) whenever I can in order to reduce the stigma 🙌🏻
 
-### Links you should check out:
+💬 Feel free to reach out for a chat, discussion or anything else in between via [e-mail](mailto:dev.kan@gmail.com) or [Linked-In](https://www.linkedin.com/in/kaniskc/). 
 
-[<img align="left" alt="devkanisk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kanisk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="devkanisk | Instagram | MindSwastha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="devkanisk | DEVpost" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kanisk's DEV Profile" width="22px">][devpost]
-[<img align="left" alt="devkanisk | codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" alt="Kanisk's codewars profile" width="22px">][codewars]
-[<img align="left" alt="devkanisk | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+You can also find me on Discord as `kan#0979`, where I founded, and manage [Centennial Social](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic!
 
 <br />
 
-### Languages and Tools:
+## Skills/Frameworks:
 
 <a href="#"><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
 <a href="#"><img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></a>
