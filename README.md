@@ -19,7 +19,7 @@ Apart from career and academic focused side of things, I also:
 
 I am passionate about **mental health** and try to [do my part](https://www.instagram.com/mindswastha/) whenever I can in order to **reduce the stigma** 🙌🏻
 
-💬 Feel free to reach out for a chat, discussion or anything else in between via [e-mail](mailto:dev.kan@gmail.com) or [Linked-In](https://www.linkedin.com/in/kaniskc/). 
+Feel free to reach out for a chat, discussion or anything else in between via [e-mail](mailto:dev.kan@gmail.com) or [Linked-In](https://www.linkedin.com/in/kaniskc/). 
 
 You can also find me on Discord as `kan#0979`, where I **founded**, and manage [Centennial Social](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic!
 
