@@ -1,5 +1,4 @@
-
-### Hi there 👋  
+### Hi there 👋
 
 Nice to e-meet you, I am **Kanisk**, a recent Software Engineering grad from [Centennial College](https://www.centennialcollege.ca/).
 
@@ -13,13 +12,14 @@ I'm currently seeking **Full-Time Software Engineering** roles for **Winter 2021
 - ⚡ **Centennial College**: Student Researcher - Oct 2018 ~ Dec 2018
 
 Apart from career and academic focused side of things, I also:
+
 - 🎸 **play a couple of instruments** and try to wrap my head around 🎧 **music production**,
 - 🎨 enjoy **sketching/drawing** things I find cool or interesting,
-- 🧠 and also like to dabble in the **study of psychology**, attempting to understand the complex nature of the human mind. 
+- 🧠 and also like to dabble in the **study of psychology**, attempting to understand the complex nature of the human mind.
 
 I am passionate about **mental health** and try to [do my part](https://www.instagram.com/mindswastha/) whenever I can in order to **reduce the stigma** 🙌🏻
 
-Feel free to reach out for a chat, discussion or anything else in between via [e-mail](mailto:dev.kan@gmail.com) or [Linked-In](https://www.linkedin.com/in/kaniskc/). 
+Feel free to reach out for a chat, discussion or anything else in between via [e-mail](mailto:dev.kan@gmail.com) or [Linked-In](https://www.linkedin.com/in/kaniskc/).
 
 You can also find me on Discord as `kan#0979`, where I **founded**, and manage [Centennial Social](https://discord.gg/eBnK5pB) - a virtual club for students geared towards navigating coursework and social-life through the pandemic!
 
@@ -44,6 +44,11 @@ You can also find me on Discord as `kan#0979`, where I **founded**, and manage [
 
 <br />
 <br />
+
+### Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://kan.codes
 [twitter]: https://twitter.com/chakra_kan
