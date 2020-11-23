@@ -2,8 +2,6 @@
 
 Nice to e-meet you, I am **Kanisk**, a recent Software Engineering grad from [Centennial College](https://www.centennialcollege.ca/).
 
-An **inquisitive learner** who strives to understand the reasoning behind the little things instead of glossing over them, I'm **driven to innovate**, and, in general, **passionate** about programming paradigms, software infrastructure, and the ever-growing field of ML/AI & data science.
-
 I'm currently taking some time off to explore my passions and work on personal/contract projects before I look for **Full-Time Software Engineering** roles for **2021**.
 
 ### 🔭 Experience
