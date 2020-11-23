@@ -4,10 +4,11 @@ Nice to e-meet you, I am **Kanisk**, a recent Software Engineering grad from [Ce
 
 An **inquisitive learner** who strives to understand the reasoning behind the little things instead of glossing over them, I'm **driven to innovate**, and, in general, **passionate** about programming paradigms, software infrastructure, and the ever-growing field of ML/AI & data science.
 
-I'm currently seeking **Full-Time Software Engineering** roles for **Winter 2021**.
+I'm currently taking some time off to explore my passions and work on personal/contract projects before I look for **Full-Time Software Engineering** roles for **2021**.
 
 ### 🔭 Experience
 
+- ⚡ **KanHub**: Contract Software Engineer - Jan 2020 ~ Current
 - ⚡ **Royal Bank of Canada**: Software Developer Internship - Jan 2019 ~ Dec 2019
 - ⚡ **Centennial College**: Student Researcher - Oct 2018 ~ Dec 2018
 
