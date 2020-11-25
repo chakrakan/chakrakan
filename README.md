@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to e-meet you, I am **Kanisk**, a 2020 Software Engineering grad currently taking some time off to explore my passions and work on personal/contract projects before I look for **Full-Time Software Engineering** roles for **2021**.
+Nice to e-meet you, I am **Kanisk**, a recent Software Engineering grad currently taking some time off to explore my passions and work on personal/contract projects before I look for **Full-Time Software Engineering** roles for **2021**.
 
 ### 🔭 Experience
 
