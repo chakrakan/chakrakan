@@ -4,7 +4,7 @@ Nice to e-meet you, I am **Kanisk**, a recent Software Engineering grad currentl
 
 ### 🔭 Experience
 
-- ⚡ **KanHub**: Contract Software Engineer - Jan 2020 ~ Current
+- ⚡ [**KanHub**](https://github.com/kanhub): Contract Software Engineer - Jan 2020 ~ Current
 - ⚡ **Royal Bank of Canada**: Software Developer Internship - Jan 2019 ~ Dec 2019
 - ⚡ **Centennial College**: Student Researcher - Oct 2018 ~ Dec 2018
 
