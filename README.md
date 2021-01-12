@@ -44,6 +44,7 @@ You can also find me on Discord as `kan#0979`, where I **founded**, and manage [
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#AskDevTo: What are you learning in 2021?](https://dev.to/chakrakan/askdevto-what-are-you-learning-in-2021-4ek5)
 - [17 No code tools for different stages of application development](https://dev.to/chakrakan/17-no-code-tools-for-different-stages-of-application-development-12n4)
 - [Installing and configuring ElasticSearch on a VM](https://dev.to/chakrakan/installing-and-configuring-elasticsearch-on-a-vm-2b8n)
 - [Setting up your Github Profile as your portfolio](https://dev.to/chakrakan/setting-up-your-github-profile-as-your-portfolio-1b5e)
