@@ -44,6 +44,7 @@ You can also find me on Discord as `kan#0979`, where I **founded**, and manage [
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [18 Tips to make websites look better](https://dev.to/chakrakan/18-tips-to-make-websites-look-better-ob3)
 - [#AskDevTo: What are you learning in 2021?](https://dev.to/chakrakan/askdevto-what-are-you-learning-in-2021-4ek5)
 - [17 No code tools for different stages of application development](https://dev.to/chakrakan/17-no-code-tools-for-different-stages-of-application-development-12n4)
 - [Installing and configuring ElasticSearch on a VM](https://dev.to/chakrakan/installing-and-configuring-elasticsearch-on-a-vm-2b8n)
