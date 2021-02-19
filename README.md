@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to e-meet you, I am **Kanisk**, a recent Software Engineering grad currently looking for **Full-Time Software Engineering** roles for **2021**.
+Nice to e-meet you, I am **Kanisk**, a Toronto based **Software Engineer**.
 
 ### 🔭 Experience
 
