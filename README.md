@@ -4,14 +4,15 @@ Nice to e-meet you, I am **Kanisk**, a Toronto based **Software Engineer**.
 
 ### 🔭 Experience
 
+- ⚡ [**Hoppier**](https://www.hoppier.com/): Software Engineer - Growth - Feb 2021 ~ Present
 - ⚡ [**KanHub**](https://github.com/kanhub): Contract Software Engineer - Sep 2020 ~ Current
-- ⚡ **Royal Bank of Canada**: Software Developer Internship - Jan 2019 ~ Dec 2019
-- ⚡ **Centennial College**: Student Researcher - Oct 2018 ~ Dec 2018
+- ⚡ [**Royal Bank of Canada**](https://www.rbc.com/about-rbc.html): Software Developer Internship - Jan 2019 ~ Dec 2019
+- ⚡ [**Centennial College**](https://wimtach.centennialcollege.ca/): Student Researcher - Oct 2018 ~ Dec 2018
 
 Apart from career and academic focused side of things, I also:
 
 - 🎸 **play a couple of instruments** and try to wrap my head around 🎧 **music production**,
-- 🎨 enjoy **sketching/drawing** things I find cool or interesting,
+- 🎨 enjoy [**sketching/drawing**](https://www.deviantart.com/kaniskc) things I find cool or interesting,
 - 🧠 and also like to dabble in the **study of psychology**, attempting to understand the complex nature of the human mind.
 
 I am passionate about **mental health** and try to [do my part](https://www.instagram.com/mindswastha/) whenever I can in order to **reduce the stigma** 🙌🏻
@@ -53,7 +54,7 @@ You can also find me on Discord as `kan#0979`, where I **founded**, and manage [
 
 <a href="https://www.buymeacoffee.com/chakrakan" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
 
-[website]: https://kan.codes
+[website]: https://kanisk.live
 [twitter]: https://twitter.com/chakra_kan
 [youtube]: https://www.youtube.com/channel/UC1jjg1XRAuUZj7-Q48v7tFw/
 [instagram]: https://www.instagram.com/mindswastha/
