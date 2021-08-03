@@ -4,6 +4,7 @@ Nice to e-meet you, I am **Kanisk**, a Toronto based **Software Engineer**.
 
 ### 🔭 Experience
 
+- ⚡ [**Wave**](https://www.waveapps.com/): Software Engineer - Aug 2021 ~ Present
 - ⚡ [**Hoppier**](https://www.hoppier.com/): Software Engineer - Growth - Feb 2021 ~ Jul 2021
 - ⚡ [**KanHub**](https://github.com/kanhub): Contract Software Engineer (Freelance) - Sep 2020 ~ Present
 - ⚡ [**Royal Bank of Canada**](https://www.rbc.com/about-rbc.html): Software Developer Internship - Jan 2019 ~ Dec 2019
