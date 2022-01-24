@@ -45,7 +45,7 @@ You can also find me on Discord as `kan#0979`, where I **founded**, and manage [
 - [Setting up your Github Profile as your portfolio](https://dev.to/chakrakan/setting-up-your-github-profile-as-your-portfolio-1b5e)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://www.buymeacoffee.com/chakrakan" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
+<a href="https://www.buymeacoffee.com/devkanisk" target="_blank"><img width="150px" height="40px" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" /></a>
 
 [website]: https://kanisk.live
 [twitter]: https://twitter.com/chakra_kan
