@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Kanisk**, a Toronto based **Software Developer** and I like to make things.
+I am a Toronto based **Software Developer** and I like to make things.
 
 Languages/Frameworks:
 
